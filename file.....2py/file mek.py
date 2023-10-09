@@ -1,0 +1,5 @@
+f=open("file.txt","w")
+s=input("enter the data")
+f.write(s)
+print("file cerated succesfully")
+f.close()

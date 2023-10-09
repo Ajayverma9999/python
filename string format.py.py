@@ -1,0 +1,5 @@
+name=input("enter the name")
+city=input("enter the city")
+print("hello my name is {},i am from {}".format(name,city))
+print("hello my name is {0},i am from {1}".format(name,city))
+print("helllo my name is {name},i am from {city}".format(name="ajay",city="hisar"))
